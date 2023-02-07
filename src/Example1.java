@@ -7,8 +7,6 @@ public class Example1 {
 	  System.out.println(" Hi this is Example1 file , statement-1");
 	  System.out.println(" Hi this is Example1 file , statement-2");
 		
-		
-		
 	}
 
 }
